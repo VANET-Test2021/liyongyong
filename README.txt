@@ -1,5 +1,5 @@
 
-Veins 5.0 - The open source vehicular network simulation framework.
+Veins v5.0 - The open source vehicular network simulation framework.
 
 See the Veins website <http://veins.car2x.org/> for a tutorial, documentation,
 and publications.
@@ -16,6 +16,4 @@ do not include license text shall be assumed to allow the Creative Commons
 "Attribution-ShareAlike 4.0 International License" as an additional option
 (SPDX-License-Identifier: GPL-2.0-or-later OR CC-BY-SA-4.0). Full license texts
 are available with the source distribution.
-
-try.
 

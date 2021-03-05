@@ -1,8 +1,2 @@
-examples/platoonFormation
-examples/scenario100
-examples/scenario120
-examples/scenario20
-examples/scenario40
-examples/scenario60
-examples/scenario80
+examples/veins
 src/veins
